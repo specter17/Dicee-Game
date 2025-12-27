@@ -1,0 +1,30 @@
+# 🎲 Dicee Game
+
+Dicee is a simple and interactive web-based dice game built using **HTML, CSS, and JavaScript**.  
+The game simulates rolling two dice for **Player 1** and **Player 2**, and automatically declares the winner based on the randomly generated dice values.
+
+This project is ideal for beginners who want to understand **DOM manipulation, event handling, and random number generation** in JavaScript.
+
+---
+
+## 🚀 Features
+
+- 🎲 Generates random dice numbers (1–6) for both players
+- 🧠 Automatically determines the winner or a draw
+- 🔄 Refresh button to roll dice again
+- 🎨 Clean and responsive UI using CSS
+- ⚡ Pure JavaScript logic (no libraries/frameworks)
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Structure of the application  
+- **CSS3** – Styling and layout  
+- **JavaScript (ES6)** – Game logic and DOM manipulation  
+
+---
+
+![Dicee Game Screenshot](./Screenshot.png)
+
+
